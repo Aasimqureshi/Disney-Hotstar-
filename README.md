@@ -1,1 +1,2 @@
-# Disney-Hotstar-
+# Disney-Hotstar
+This project is a clone of the Disney+ Hotstar website, developed using HTML, CSS, and JavaScript. It is designed to replicate the look and feel of the popular streaming platform, providing a similar user interface and interaction model. The project includes a responsive navigation bar, a carousel for featured content, a grid layout for video cards, and sections for recommended movies, popular shows, and new releases.
